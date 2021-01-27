@@ -14,7 +14,7 @@ setup(
     name='pyrnr',
     packages=['pyrnr'],
 
-    version='0.0.1',
+    version='1.0.0',
 
     license='MIT',
 
@@ -28,7 +28,7 @@ setup(
     description='This library performs pyramidal (i.e. multi-scales) image noise reduction.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    keywords='pyrnr, multi-scale, nr, denoise',
+    keywords='pyrnr pyr-nr pyrdenoise denoise',
 
     classifiers=[
         'License :: OSI Approved :: MIT License',

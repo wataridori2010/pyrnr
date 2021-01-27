@@ -4,7 +4,7 @@ import cv2
 
 
 
-def reduce_color_pyr_wb2(img3, d_sigma=0.01, x_sigma=100):
+def pyrnr(img3, d_sigma=0.01, x_sigma=100):
 
     filter_size = 5
     shape = img3.shape

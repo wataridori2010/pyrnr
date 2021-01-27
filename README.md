@@ -5,7 +5,6 @@ Pyramidal Noise Reduction library
 ## Requirements
 
 - opencv-python
-- numpy
 
 
 ## Install
